@@ -1,2 +1,4 @@
 # H1
-test sync
+Erga Karvat
+Kiryat Bialik
+erga.karvat@gmail.com
